@@ -93,7 +93,7 @@ window.onload = function() {
     final_html = f"""<!DOCTYPE html>
 <html>
 <head>
-    <title>Combined Test Results (Tabbed)</title>
+    <title>Combined Test Results</title>
     {shared_style}
     {tabs_css}
 </head>
